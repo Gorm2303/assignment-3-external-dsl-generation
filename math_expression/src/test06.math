@@ -1,4 +1,0 @@
-// Three numbers subtraction
-
-program Test06
-var x = 42 - 4 - 80

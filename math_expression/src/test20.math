@@ -1,4 +1,0 @@
-// Let variable shadowing
-
-program Test20
-var x = let y = 2 in let y = 3 in y * y end + y end + 76

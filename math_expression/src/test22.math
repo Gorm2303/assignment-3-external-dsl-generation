@@ -1,5 +1,0 @@
-// Var binding expression
-
-program Test22
-var x = 40 + 2
-var y = x * 2

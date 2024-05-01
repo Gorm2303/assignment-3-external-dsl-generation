@@ -1,4 +1,0 @@
-// Three numbers multiplication
-
-program Test09
-var x = 5 * 4 * 6
